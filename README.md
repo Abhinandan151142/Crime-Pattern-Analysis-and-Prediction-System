@@ -187,7 +187,7 @@ This is a portfolio/demo project, but suggestions are welcome!
 ## 📞 Contact
 
 For questions or feedback:
-- Email: your.email@example.com
+- Email: abhinandanguptaguptaatlas@gmail.com
 ---
 ⭐ **Star this repo if you find it helpful!**
 
