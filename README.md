@@ -177,17 +177,6 @@ This is a portfolio/demo project, but suggestions are welcome!
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-MIT License - feel free to use for your own projects!
-
-## 👨‍💻 Author
-
-**Your Name**
-- Portfolio: [yourportfolio.com](#)
-- LinkedIn: [linkedin.com/in/yourprofile](#)
-- GitHub: [@yourusername](#)
-
 ## 🙏 Acknowledgments
 
 - Leaflet.js for amazing map library
@@ -199,10 +188,7 @@ MIT License - feel free to use for your own projects!
 
 For questions or feedback:
 - Email: your.email@example.com
-- Twitter: [@yourhandle](#)
-
 ---
-
 ⭐ **Star this repo if you find it helpful!**
 
 Built with ❤️ for public safety and community well-being.
